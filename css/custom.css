@@ -1,2 +1,11 @@
 
 /** ADD YOUR AWESOME CODES HERE **/
+
+.box {
+    border: 2px solid #ddd; /* Border color */
+    border-radius: 10px; /* Rounded corners */
+    padding: 20px; /* Spacing inside */
+    background-color: #fff; /* Background color */
+    box-shadow: 4px 4px 10px rgba(0, 0, 0, 0.1); /* Soft shadow */
+    margin: 20px 0; /* Spacing between boxes */
+}
